@@ -2,10 +2,6 @@ import express from "express";
 
 const navsRouter = express.Router();
 
-// global로 바꿔야함
-navsRouter.get("/", (req, res) => {
-  res.render("index");
-});
 navsRouter.get("/howtocome", (req, res) => {
   res.render("howtocome");
 });
