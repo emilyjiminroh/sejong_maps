@@ -21,7 +21,7 @@ Teachable Machine을 활용하여 학교 건물 이미지 모델을 만들어서
 
 건물의 위치를 모르는 학우들에게 편의를 제공할 수 있다.
 
-Teachable machine - Train Data
+Teachable machine - Train Data.
 https://drive.google.com/drive/folders/1G60eWRQcK5xYyw1a1MRaZyenvhBty-Dr?usp=sharing
 
 ## 기획 과정
